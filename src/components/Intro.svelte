@@ -1,5 +1,8 @@
 <style>
-  /*! CSS Used from: file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/css/animate.css */
+  p {
+    color: gray;
+  }
+  /*! CSS Used from: file:///D:/pizza/css/animate.css */
   .ftco-animated {
     -webkit-animation-duration: 0.5s;
     animation-duration: 0.5s;
@@ -10,7 +13,7 @@
     -webkit-animation-name: fadeInUp;
     animation-name: fadeInUp;
   }
-  /*! CSS Used from: file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/css/icomoon.css */
+  /*! CSS Used from: file:///D:/pizza/css/icomoon.css */
   [class^="icon-"] {
     font-family: "icomoon" !important;
     speak: none;
@@ -40,7 +43,7 @@
   .icon-my_location:before {
     content: "\e55c";
   }
-  /*! CSS Used from: file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/css/style.css */
+  /*! CSS Used from: file:///D:/pizza/css/style.css */
   *,
   *::before,
   *::after {
@@ -279,14 +282,12 @@
   /*! CSS Used fontfaces */
   @font-face {
     font-family: "icomoon";
-    src: url("file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/fonts/icomoon/icomoon.eot?6tt51o");
-    src: url("file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/fonts/icomoon/icomoon.eot?6tt51o#iefix")
+    src: url("file:///D:/pizza/fonts/icomoon/icomoon.eot?6tt51o");
+    src: url("file:///D:/pizza/fonts/icomoon/icomoon.eot?6tt51o#iefix")
         format("embedded-opentype"),
-      url("file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/fonts/icomoon/icomoon.ttf?6tt51o")
-        format("truetype"),
-      url("file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/fonts/icomoon/icomoon.woff?6tt51o")
-        format("woff"),
-      url("file:///C:/Users/Antonoiu/Downloads/pizza-gh-pages/fonts/icomoon/icomoon.svg?6tt51o#icomoon")
+      url("file:///D:/pizza/fonts/icomoon/icomoon.ttf?6tt51o") format("truetype"),
+      url("file:///D:/pizza/fonts/icomoon/icomoon.woff?6tt51o") format("woff"),
+      url("file:///D:/pizza/fonts/icomoon/icomoon.svg?6tt51o#icomoon")
         format("svg");
     font-weight: normal;
     font-style: normal;

@@ -12,6 +12,7 @@
 
   import HomeSlider from "../components/HomeSlider.svelte";
   import Intro from "../components/Intro.svelte";
+  import About from "../components/About.svelte";
 </script>
 
 <svelte:head>
@@ -20,3 +21,4 @@
 
 <HomeSlider/>
 <Intro/>
+<About/>
